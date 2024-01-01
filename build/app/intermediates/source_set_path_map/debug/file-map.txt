@@ -1,0 +1,12 @@
+com.gokyuzudevelopment.elearningapp-jetified-window-1.0.0-beta04-0 C:\Users\emirs\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+com.gokyuzudevelopment.elearningapp-jetified-annotation-experimental-1.1.0-1 C:\Users\emirs\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\res
+com.gokyuzudevelopment.elearningapp-core-1.6.0-2 C:\Users\emirs\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\res
+com.gokyuzudevelopment.elearningapp-jetified-window-java-1.0.0-beta04-3 C:\Users\emirs\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
+com.gokyuzudevelopment.elearningapp-debug-4 C:\yazilim\E_Learning_App\android\app\src\debug\res
+com.gokyuzudevelopment.elearningapp-main-5 C:\yazilim\E_Learning_App\android\app\src\main\res
+com.gokyuzudevelopment.elearningapp-pngs-6 C:\yazilim\E_Learning_App\build\app\generated\res\pngs\debug
+com.gokyuzudevelopment.elearningapp-resValues-7 C:\yazilim\E_Learning_App\build\app\generated\res\resValues\debug
+com.gokyuzudevelopment.elearningapp-rs-8 C:\yazilim\E_Learning_App\build\app\generated\res\rs\debug
+com.gokyuzudevelopment.elearningapp-mergeDebugResources-9 C:\yazilim\E_Learning_App\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.gokyuzudevelopment.elearningapp-mergeDebugResources-10 C:\yazilim\E_Learning_App\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.gokyuzudevelopment.elearningapp-merged_res-11 C:\yazilim\E_Learning_App\build\app\intermediates\merged_res\debug
