@@ -1,5 +1,5 @@
-import 'package:elearningapp/views/cubit/anasayfa_cubit.dart';
-import 'package:elearningapp/views/ui/anasayfa.dart';
+import 'package:elearningapp/data/repo/auth/login/login_repo.dart';
+import 'package:elearningapp/views/ui/login/login_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
@@ -11,18 +11,16 @@ class MyApp extends StatelessWidget {
   const MyApp({super.key});
   @override
   Widget build(BuildContext context) {
-    return MultiBlocProvider(
-      providers: [
-        BlocProvider(create: (context) => AnasayfaCubit()),
-      ],
-      child: MaterialApp(
+    return MaterialApp(
+        debugShowCheckedModeBanner: false,
         title: 'Flutter Demo',
         theme: ThemeData(
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
           useMaterial3: true,
         ),
-        home: Anasayfa(),
-      ),
+        home: RepositoryProvider(
+          create: (context) => LoginRepo(),
+            child: LoginScreen())
     );
   }
 }
